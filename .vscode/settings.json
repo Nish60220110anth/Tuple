@@ -1,0 +1,8 @@
+{
+    "go.inferGopath": false,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*1.go":"${capture}1.go"
+    },
+    "explorer.fileNesting.expand": true
+}
